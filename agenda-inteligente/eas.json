@@ -12,8 +12,7 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "output": "./Agenda_Inteligente.apk"
+      }
     },
     "production": {
       "autoIncrement": true
